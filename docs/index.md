@@ -4,7 +4,7 @@ Cryptotron
 - [About](about)
 - [Documentation](docs)
 - Contribute
-  + [Code of Conduct](contrib/CODE_OF_CONDUCT)
-  + [Contributing](contrib/CONTRIBUTING)
-  + [Issue Template](contrib/ISSUE_TEMPLATE)
-  + [Pull Request Template](contrib/PULL_REQUEST_TEMPLATE)
+  + [Code of Conduct](contrib/conduct)
+  + [Contribution Guide](contrib/contributing)
+  + [Issue Template](contrib/issue-template)
+  + [Pull Request Template](contrib/pull-request-template)
