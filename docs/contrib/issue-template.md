@@ -6,7 +6,7 @@
 
 - [ ] Submit the [issue](https://github.com/aronanda/boiler/issue)
 
-[existing_issues](https://github.com/aronanda/boiler/issues?q=is%3Aissue+sort%3Acreated-desc)
+[existing_issues]: https://github.com/aronanda/boiler/issues?q=is%3Aissue+sort%3Acreated-desc
 
 ### General information
 
