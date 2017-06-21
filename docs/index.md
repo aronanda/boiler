@@ -1,8 +1,6 @@
-Cryptotron
-==========
+# Boiler
 
 - [About](about)
-- [Documentation](docs)
 - Contribute
   + [Code of Conduct](https://github.com/aronanda/boiler/blob/master/.github/CODE_OF_CONDUCT.md)
   + [Contribution Guide](https://github.com/aronanda/boiler/blob/master/.github/CONTRIBUTING.md)
