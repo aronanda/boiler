@@ -1,8 +1,12 @@
 ## New issue checklist
 <!-- Before submitting this issue, make sure you have done the following -->
 
-- [ ] I have read all of the [`README`](../README.md) 
-- [ ] I have searched [existing issues](https://github.com/nimiq-network/core/issues?q=is%3Aissue+sort%3Acreated-desc) and **this is not a duplicate**.
+- [ ] I have read all of the [`README`](../../README.md)
+- [ ] I have searched [existing issues][existing_issues] and **this is not a duplicate**.
+
+- [ ] Submit the [issue](https://github.com/aronanda/boiler/issue)
+
+[existing_issues](https://github.com/aronanda/boiler/issues?q=is%3Aissue+sort%3Acreated-desc)
 
 ### General information
 
