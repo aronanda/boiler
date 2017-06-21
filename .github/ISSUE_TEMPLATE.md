@@ -4,8 +4,9 @@
 - [ ] I have read all of the [`README`][README]
 - [ ] I have searched [existing issues][existing issues] and **this is not a duplicate**.
 
-[existing issues]: https://github.com/aronanda/boiler/issues?q=is%3Aissue+sort%3Acreated-desc
 [README]: ../README.md
+[existing issues]: https://github.com/aronanda/boiler/issues?q=is%3Aissue+sort%3Acreated-desc
+
 ### General information
 
 - Library version(s):
