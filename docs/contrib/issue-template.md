@@ -1,7 +1,7 @@
 ## New issue checklist
 <!-- Before submitting this issue, make sure you have done the following -->
 
-- [ ] I have read all of the [`README`](../../README.md)
+- [ ] I have read all of the [`README`](../)
 - [ ] I have searched [existing issues][existing_issues] and **this is not a duplicate**.
 
 - [ ] Submit the [issue](https://github.com/aronanda/boiler/issue)
